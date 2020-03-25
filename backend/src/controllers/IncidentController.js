@@ -29,7 +29,7 @@ module.exports = {
       const { title,description,value } = req.body;
       const ong_id = req.headers.authorization;
 
-      //Retorna um array com o id do regsitro criado
+      //Retorna um array com o id do registro criado
       //Por isso o uso da desconstrução
       const [id] = await connection('incidents').insert({
           title,
