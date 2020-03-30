@@ -11,3 +11,27 @@
  <img src="https://img.shields.io/github/repo-size/vitorpedeo/semana-omnistack-11" />
  
 </p>
+
+<h1>:interrobang: O que é:</h1>
+
+<img src="https://user-images.githubusercontent.com/41702724/77866990-b845a480-720b-11ea-9a74-2bc64a2f7f68.png" alt="Interface Web" />
+<p>Be The Hero é um projeto que busca ajudar ONGs que necessitam de ajuda financeira. A aplicação busca encontrar pessoas, os heróis,
+   que estão dispostas a ajudar as organizações a solucionarem seus casos.
+</p>
+
+<h1>:computer: Funcionamento:</h1>
+<h3>Web</h3>
+<p>É onde as ONGs podem se cadastrar e também cadastrar novos casos.</p>
+<h3>BackEnd:</h3>
+<p>A API criada apresenta rotas para cadastro e login de ONGs, criação e exclusão de casos.</p>
+<h3>Mobile</h3>
+<p>No aplicativo ocorre a interação entre o usuário que deseja ajudar e os casos cadatrados pelas ONGs.</p>
+
+<h1>:pencil2:Tecnologias utilizadas:</h1>
+<ul>
+ <li><a href="https://pt-br.reactjs.org/">React</a></li>
+ <li><a href="https://nodejs.org/en/">Nodejs</a></li>
+ <li><a href="https://reactnative.dev/">React Native</a></li>
+ <li><a href="https://expo.io/">Expo</a></li>
+</ul>
+
