@@ -35,3 +35,52 @@
  <li><a href="https://expo.io/">Expo</a></li>
 </ul>
 
+<h1>:page_facing_up:Como utilizar</h1>
+<p>Em seu terminal:</p>
+
+```
+Clone o repositório
+git clone https://github.com/vitorpedeo/semana-omnistack-11.git
+```
+<h3>BackEnd</h3>
+
+```
+Vá para o diretório correspondente
+cd semana-omnistack-11/backend
+
+Instale as dependências
+npm install
+
+Execute as migrations do Knex
+npx knex migrate:latest
+
+Inicie a API
+npm start
+```
+
+<h3>Web</h3>
+
+```
+Vá para o diretório correspondente
+cd semana-omnistack-11/frontend
+
+Instale as dependências
+npm install
+
+Inicie
+npm start
+```
+
+<h3>Mobile</h3>
+
+```
+Vá para o diretório correspondente
+cd semana-omnistack-11/mobile
+
+Instale as dependências
+npm install
+
+Rode o comando e concorde com a instalação do Expo CLI caso for pedido
+npm start
+```
+
