@@ -8,6 +8,6 @@
     <img src="https://img.shields.io/badge/Made%20By-VitorPereira-red" />
  </a>
  
- < img src="https://img.shields.io/github/repo-size/vitorpedeo/semana-omnistack-11" />
+ <img src="https://img.shields.io/github/repo-size/vitorpedeo/semana-omnistack-11" />
  
 </p>
